@@ -4,11 +4,10 @@
 
 > This is a practice file
 
-'''
-git status 
-git add .
-git commit - m "this is practice file code"
-'''
+
+'''git status''' 
+'''git add .'''
+'''git commit - m "this is practice file code"'''
 
 [my github repo is] (https://github.com/naamannaz/githublearn1/tree/bugbranch)
 

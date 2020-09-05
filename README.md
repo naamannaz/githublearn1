@@ -22,6 +22,6 @@ Following is the list:
      - and i have no idea what it will look like
 
 Task list:
--[x] toyota
--[] honda
+[x] toyota
+[] honda
 [] hyundai
